@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eelaiwuis.metallcopper.ru/sitemap.xml
